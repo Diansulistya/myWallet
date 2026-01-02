@@ -1,0 +1,37 @@
+<?php
+
+return [
+    // Authentication
+    'Login' => 'Masuk',
+    'Register' => 'Daftar',
+    'Logout' => 'Keluar',
+    'Email Address' => 'Alamat Email',
+    'Password' => 'Kata Sandi',
+    'Remember Me' => 'Ingat Saya',
+    'Forgot Your Password?' => 'Lupa Kata Sandi?',
+    'Name' => 'Nama',
+    'Confirm Password' => 'Konfirmasi Kata Sandi',
+    
+    // Dashboard
+    'Welcome to Dompetku' => 'Selamat Datang di Dompetku',
+    'Hello' => 'Halo',
+    'Your Dompetku Balance' => 'Saldo Dompetku Anda',
+    'Add Money' => 'Tambah Uang',
+    'View Expenses' => 'Lihat Pengeluaran',
+    'Top up your wallet with various payment methods' => 'Isi ulang dompet Anda dengan berbagai metode pembayaran',
+    'Track and manage your expenses' => 'Kelola dan lacak pengeluaran Anda',
+    'Coming Soon' => 'Segera Hadir',
+    
+    // Profile
+    'My Profile' => 'Profil Saya',
+    'Change Password' => 'Ubah Kata Sandi',
+    'Back to Dashboard' => 'Kembali ke Dashboard',
+    'Personal Information' => 'Informasi Pribadi',
+    'Wallet Information' => 'Informasi Dompet',
+    'Current Balance' => 'Saldo Saat Ini',
+    'Member Since' => 'Anggota Sejak',
+    'No wallet found. Please contact support.' => 'Dompet tidak ditemukan. Silakan hubungi dukungan.',
+    
+    // General
+    'My Wallet' => 'Dompet Saya',
+];
